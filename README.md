@@ -6,6 +6,7 @@
 ## ✅ Possible Improvements
 - Add high score screen after death
 - Use local storage to store high score
+- Make pipe despawn faster or add an off screen trigger
 
 ## 🧰 Tech Stack
 - Unity 2021.3.4f1
